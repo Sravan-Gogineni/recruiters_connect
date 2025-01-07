@@ -15,8 +15,8 @@ This Python script automates the process of connecting with recruiters on Linked
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/yourusername/linkedin-recruiter-automation.git
-cd linkedin-recruiter-automation
+git clone https://github.com/Sravan-Gogineni/recruiters_connect.git
+cd recruiters_connect
 ```
 
 ### Step 2: Install Dependencies
@@ -37,8 +37,9 @@ Store your LinkedIn username and password in the script or through an appropriat
 To start the automation, run the following command:
 
 ```bash
-python connect_to_recruiters.py
+python connect.py
 ```
+Provide Your  Linkedin Login Credentials
 
 The script will automatically log into LinkedIn and begin sending connection requests to recruiters.
 
